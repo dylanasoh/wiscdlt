@@ -181,19 +181,19 @@ tr td {
 
 
 .home {
-    background-image: url('../imgs/uw_flag.jpg');
+    background-image: url('https://raw.githubusercontent.com/dylanasoh/wiscdlt/main/images/uw_flag.jpg');
 }
 
 .team {
-    background-image: url('../imgs/grainger.jpg');
+    background-image: url('https://raw.githubusercontent.com/dylanasoh/wiscdlt/main/images/grainger.jpg');
 }
 
 .join {
-    background-image: url('../imgs/rose_bowl_parade.jpg')
+    background-image: url('https://raw.githubusercontent.com/dylanasoh/wiscdlt/main/images/rose_bowl_parade.jpg')
 }
 
 .about {
-    background-image: url('../imgs/bascom_hall.jpg');
+    background-image: url('https://raw.githubusercontent.com/dylanasoh/wiscdlt/main/images/bascom_hall.jpg');
 }
 
 .jumbotron h1 {
